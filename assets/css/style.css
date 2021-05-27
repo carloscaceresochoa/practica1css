@@ -1,0 +1,35 @@
+/**Hoja de estilos de mi primera Pagina**/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: white;
+}
+
+div {
+    background: tomato
+}
+
+.blue {
+    background: blue;
+    color: white
+}
+
+#orange {
+    background: orange;
+}
+
+.letra {
+    font-size: 30px;
+}
+
+.verde {
+    background-color: rgb(113, 219, 26);
+}
+
+.verde1 {
+    background-color: rgb(113, 219, 26, 0.5)
+}
